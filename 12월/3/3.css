@@ -1,0 +1,94 @@
+.background {
+    background-color: gainsboro;
+}
+
+.headright {
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+}
+
+.logo {
+    text-align: center;
+    min-height: 160px;
+    max-height: 290px;
+    height: calc(100% - 560px);
+}
+
+.question {
+    text-align: center;
+    margin: 50px;
+}
+
+.ques {
+    width: 430px;
+    height: 40px;
+    border-radius: 30px;
+    border: white;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+.icon {
+    text-align: center;
+    padding: 20px;
+}
+
+.icon_ {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 530px;
+    margin-right: 530px;
+}
+
+.icon1 {
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+
+.gmail {
+    font-size: 20px;   
+    padding-right: 15px;
+    margin-top: 10px;
+}
+
+.img{
+    font-size: 20px;
+    padding-right: 15px;
+    margin-top: 10px;
+}
+
+.menu{
+    font-size: 20px;
+    padding-right: 15px;
+    margin-top: 10px;
+}
+
+.my {
+    font-size: 20px;
+    padding-right: 15px;
+    margin-top: 10px;
+}
+
+.fa-sistrix {
+    display: inline;
+    position: relative;
+    left: 30px;
+}
+
+.ques1 {
+    display: inline;
+    position: relative;
+    bottom: 30px;
+    right: 220px;
+}
+
+.ques2 {
+    display: inline;
+    position: relative;
+    bottom: 30px;
+    left: 180px;
+}

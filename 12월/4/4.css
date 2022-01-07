@@ -1,0 +1,288 @@
+.logo {
+    font-size: 80px;
+    text-align: center;
+}
+
+.body {
+    text-align: center;
+    margin: 10px;
+    display: inline;
+    position: relative;
+    bottom: 70px;
+}
+
+
+.fa-chess-board {
+    display: inline;
+    justify-content: flex-start;
+    position: relative;
+    left: 440px;
+    top: 15px;
+}
+
+.fa-info-circle {
+    display: flex;
+    position: relative;
+    bottom: 28px;
+    left: 840px   
+}
+
+.kakao_button1 {
+    text-decoration: none;
+    border: none;
+    background-color: gold;
+    padding: 20px 140px;
+    color: black;
+    font-size: 16px;
+}
+
+.fa-comment {
+    display: inline;
+    position: relative;
+    right: 10px;
+}
+
+.kakao_qr {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    margin-bottom: 10px;
+    margin-left: 230px;
+    text-decoration: none;
+    color: black;
+    border: 1px solid none;
+}
+
+.kakao {
+    margin: 50px;
+}
+
+.melon_button1 {
+    text-decoration: none;
+    border: 1px solid silver;
+    padding: 20px 140px;
+    color: black;
+}
+
+.fa-music {
+    display: inline;
+    position: relative;
+    right: 10px;
+}
+
+.sign_up {
+    color: gray;
+    position: relative;
+    top:80px;
+}
+
+.bottom1 {
+    text-align: center;
+    color: gray;
+}
+
+.font1 {
+    text-decoration: none;
+    color: gray;
+    margin: 10px;
+}
+
+.font2 {
+    text-decoration: none;
+    color: gray;
+    font-weight: 700;
+    margin: 10px;
+}
+
+.font3 {
+    text-decoration: none;
+    color: gray;
+    font-weight: 700;
+    margin: 10px;
+}
+
+.font4 {
+    text-decoration: none;
+    color: gray;
+    margin: 10px;
+}
+
+.bottom2 {
+    text-align: center;
+    position: relative;
+    bottom: 40px;
+}
+
+.ticket {
+    position: relative;
+    top: 30px;
+    margin: 5px;
+}
+
+.az {
+    position: relative;
+    top: 20px;
+    margin: 5px;
+}
+
+.call {
+    color: gray;
+    margin: 5px;
+}
+
+.bottom3 {
+    text-align: center;
+    color: silver;
+    font-size: 10px;
+    position: relative;
+    bottom: 40px;
+}
+
+.kakao_body {
+    position: relative;
+    border: 1px solid gray;
+    width: 400px;
+    left: 400px;
+}
+
+.log {
+    font-size: 20px;
+    display: inline;
+    text-align: center;
+    position: relative;
+    bottom: 400px;
+}
+
+.log1 {
+    font-size: 40px;
+    position: relative;
+    right: 60px;
+    bottom: 110px;
+}
+
+.log2 {
+    width: 250px;
+    height: 40px;
+    position: relative;
+    bottom: 50px;
+    left: 20px;
+    border-left: none;
+    border-top: none;
+    border-right: none;
+}
+
+.log3 {
+    width: 250px;
+    height: 40px; 
+    position: relative;
+    bottom: 50px;
+    left: 20px;
+    border-left: none;
+    border-top: none;
+    border-right: none;
+}
+
+.checkbox1 {
+    font-size: 15px;
+    display: inline;
+}
+.btn {
+    text-decoration: none;
+    border: none;
+    background-color: gold;
+    padding: 20px 110px;
+    color: black;
+    font-size: 16px;
+    position: relative;
+    left: 25px;
+}
+
+.btn1 {
+    text-decoration: none;
+    border: none;
+    background-color: silver;
+    padding: 20px 85px;
+    color: black;
+    font-size: 16px;
+    position: relative;
+    top: 45px;
+    left: 25px;
+}
+
+.kakao_sign_up {
+    text-align: center;
+    position: relative;
+    top: 120px;
+    font-size: 15px;
+}
+
+.btn3 {
+    text-decoration: none;
+    color: black;
+    position: relative;
+}
+
+.btn4 {
+    text-decoration: none;
+    color: black;
+    position: relative; 
+    left: 55px; 
+}
+
+.btn5 {
+    text-decoration: none;
+    color: black;
+    position: relative;  
+    left: 55px;
+}
+
+.or {
+    position: relative;
+    color: silver;
+    top: 25px;
+    left: 25px;
+    font-size: 15px;
+}
+
+.head1 {
+    text-align: center;
+    font-size: 40px;
+    position: relative;
+    top: 100px;
+}
+
+._body_ {
+    text-align: center;
+    position: relative;
+    bottom: 80px;
+    
+}
+
+.scroll {
+    width: 600px;
+    font-size: 20px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.head2 {
+    position: relative;
+    bottom: 20px;
+}
+
+.head3 {
+    position: relative;
+    bottom: 10px;
+    text-decoration: none;
+    color: black;
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.all_1 {
+    border: 1px solid gray;
+    position: relative;
+    width: 700px;
+    height: 700px;
+    left: 400px;
+}

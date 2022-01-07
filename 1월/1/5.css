@@ -1,0 +1,196 @@
+.logo1 {
+    text-align: center;
+}
+
+.log_1 {
+    text-align: center;
+}
+
+.log_2 {
+    text-align: center;
+}
+
+.log2 {
+    width: 400px;
+    font-size: 30px;
+    padding-left: 35px;
+}
+
+.log3 {
+    width: 400px;
+    font-size: 30px;
+    padding-left: 35px;
+    margin-top: 10px;
+}
+
+.id_password_1 {
+    text-align: center;
+}
+
+.checkbox {
+    position: relative;
+    right: 160px;
+    top: 15px;
+}
+
+.checkbox1 {
+    position: relative;
+    right: 160px;
+    top: 15px;
+}
+
+.id_password {
+    position: relative;
+    left: 160px;
+    text-decoration: none;
+    color: black;
+}
+
+.fa-users {
+    position: relative;
+    left: 35px;
+    bottom: 5px;
+    width: 30px !important;
+}
+
+.fa-key {
+    width: 30px !important;
+    position: relative;
+    left: 35px;
+    bottom: 5px;
+}
+
+._body_ {
+    text-align: center;
+}
+
+.scroll {
+    width: 600px;
+    font-size: 20px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.head2 {
+    position: relative;
+    bottom: 20px;
+}
+
+.head3 {
+    position: relative;
+    top: 40px;
+    text-decoration: none;
+    color: black;
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.cancel_next {
+    text-align: center;
+    position: relative;
+    top: 100px;
+}
+
+.cancel {
+    text-decoration: none;
+    border: none;
+    background-color: gainsboro;
+    padding: 10px;
+    font-size: 30px;
+    margin: 20px;
+    color: black;
+}
+
+.next {
+    text-decoration: none;
+    border: none;
+    background-color: #06AEFF;
+    padding: 10px;
+    font-size: 30px;
+    margin: 20px;
+    color: white;
+}
+
+.body_1_ {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+    margin: 40px;
+}
+
+.body_2_
+ {
+    text-align: center;
+    font-size: 30px;
+    padding: 10px;
+}
+
+.id_1 {
+    font-size: 30px;
+    margin-left: 180px;
+}
+
+.password_1 {
+    font-size: 30px;
+    margin-left: 155px;
+    margin-top: 40px;
+}
+
+.password_2 {
+    font-size: 30px;
+    margin-left: 70px;
+    margin-top: 40px;
+    position: relative;
+    right: 1px;
+}
+
+.name {
+    font-size: 30px;
+    margin-left: 210px;
+    margin-top: 40px;
+    position: relative;
+    right: 2px;
+}
+
+.nickname {
+    font-size: 30px;
+    margin-left: 180px;
+    margin-top: 40px;
+    position: relative;
+    left: 1px;
+}
+
+.email {
+    font-size: 30px;
+    margin-left: 70px;
+    margin-top: 40px;
+}
+
+.sign_up_ {
+    text-decoration: none;
+    color: white;
+    position: relative;
+    font-size: 30px;
+    top: 50px;
+    border: none;
+    background-color: #06AEFF;
+    padding: 10px;
+}
+
+.log_in {
+    text-align: center;
+}
+
+.log_in_1 {
+    text-decoration: none;
+    color: white;
+    border: none;
+    background-color: #06AEFF;
+    position: relative;
+    top: 50px;
+    font-size: 30px;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
